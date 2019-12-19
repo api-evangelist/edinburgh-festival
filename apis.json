@@ -1,0 +1,47 @@
+{
+    "name": "Edinburgh Festival",
+    "description": "Edinburgh is the world's leading festival city with amazing festivals taking place throughout the year.     So whether it's finding out about Science, finding great performing arts for the children with the Children's Festival, seeing the stars at the ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1505-edinburgh-festival.jpg",
+    "tags": [
+        "api provider",
+        "entertainment",
+        "have api",
+        "office",
+        "scotland"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/edinburgh-festival\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Edinburgh Festival",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1505-edinburgh-festival.jpg",
+            "humanURL": "http:\/\/api.festivalslab.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/edinburgh-festival-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/api.festivalslab.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/edbookfest"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/edfests"
+        }
+    ]
+}
